@@ -1,0 +1,36 @@
+{
+    "enderecos": [
+        {
+            "id": 1,
+            "nome": "Gabinete",
+            "responsavel": "Elaine Regina de Faria",
+            "contato": "(12) 3625-4295",
+            "status": "Active",
+            "role": "Admin"
+        },
+        {
+            "id": 2,
+            "nome": "Secretaria da Reitoria",
+            "responsavel": "Selma Notari Gobbo",
+            "contato": "(12) 3631-8002",
+            "status": "Active",
+            "role": "Admin"
+        },
+        {
+            "id": 3,
+            "nome": "Reitoria",
+            "responsavel": "Nara Lucia Perondi Fortes",
+            "contato": "(12) 3625-4100",
+            "status": "Active",
+            "role": "Admin"
+        },
+        {
+            "id": 4,
+            "nome": "Vice-reitoria",
+            "responsavel": "Luiz Carlos Maciel",
+            "contato": "(12) 3631-8002",
+            "status": "Active",
+            "role": "Admin"
+        }
+    ]
+}
